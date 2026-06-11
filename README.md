@@ -8,7 +8,7 @@ ImmaShap sends automatic emergency alerts to your designated contacts if you mis
 
 ## Download
 
-Available on Google Play Store — South Africa
+Available on Google Play Store
 
 ---
 
