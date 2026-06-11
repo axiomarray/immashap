@@ -53,7 +53,7 @@ ImmaShap requires a Google account to use the Application. Your account is manag
 
 * **Control:** You can modify or remove your emergency contacts at any time within the Application's Settings menu.
 * **Sign Out:** Signing out of the Application clears all locally stored settings from your device.
-* **Full Deletion:** To permanently delete your data from our servers, uninstall the Application and contact us at the email address below to request removal of your Firestore data. We will process deletion requests within 30 days.
+* **Full Deletion:** You can delete your account and all associated data directly from within the Application by tapping the gear icon → **Delete Account**. This permanently removes your account, all your data, and all your connections from our servers immediately. If you are unable to access the Application, contact us at the email address below and we will process your deletion request within 30 days.
 * **Retention:** Your data is retained for as long as you have an active account. Data associated with deleted connections is removed immediately upon deletion.
 
 ---

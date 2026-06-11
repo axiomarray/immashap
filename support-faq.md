@@ -149,8 +149,9 @@ A: Ask the person to send you a new contact request. Declined requests cannot be
 
 A:  stores your name, email address, and a device notification token in our secure Firebase database. Check-in settings are stored locally on your device. See our full [Privacy Policy] for details.
 
-**Q: Can I delete my account and data?
-A: Yes. Open the app → tap the gear icon → scroll down → tap Delete Account. This permanently deletes your account, all your data, and all your connections from our servers. This action cannot be undone. If you are unable to access the app, contact us at axiom.array+immashap@gmail.com and we will remove your data within 30 days.
+**Q: Can I delete my account and data?**
+
+A: Yes. Open the app → tap the gear icon → scroll down → tap **Delete Account**. This permanently deletes your account, all your data, and all your connections from our servers. This action cannot be undone. If you are unable to access the app, contact us at axiom.array+immashap@gmail.com and we will remove your data within 30 days.
 
 **Q: Does ImmaShap track my location?**
 
